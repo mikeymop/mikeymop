@@ -32,7 +32,7 @@ Besides building web applications my interests are:
 <details>
   <summary>Show</summary>
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=mikeymop)  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=mikeymop&hide_title=true)  
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeymop&layout=compact)
 </details>
