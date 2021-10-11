@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Michael 👋
 
 <!--
 **mikeymop/mikeymop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![stats](https://github-readme-stats.vercel.app/api?username=mikeymop)
+### About Me
+
+
+Besides building web applications my interests are:
+
+* 🛹 / 🏂 Skateboarding / Snowboarding
+* 🌲 Sustainable Technology
+* 📷 Photography
+* 💻 Internet Rights
+* 🌿 Gardening
+* 📰 Blogging
+
+### Stats
+
+<details>
+  <summary>Show</summary>
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=mikeymop)  
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeymop&layout=compact)
+</details>
+
+
